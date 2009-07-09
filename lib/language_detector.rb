@@ -92,7 +92,8 @@ class LanguageDetector
       [ "vi", "vi-utf8.txt", "utf8", "vietnamese" ],
       #wa (walloon)
       #yi (yidisih)
-      [ "zh", "zh-utf8.txt", "utf8", "chinese" ]
+      [ "zh-CN", "zh-utf8.txt", "utf8", "chinese simplified" ],
+      [ "zh-TW", "zh-TW-utf8.txt", "utf8", "chinese traditional"]
     ]
 
     profiles = []
