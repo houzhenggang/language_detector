@@ -93,6 +93,8 @@ class LanguageDetector
       #wa (walloon)
       #yi (yidisih)
       [ "zh-CN", "zh-utf8.txt", "utf8", "chinese simplified" ],
+      [ "zh-CN", "zh-gb2312.txt", "gb2312", "chinese simplified" ],
+      [ "zh-TW", "zh-big5.txt", "big5", "chinese traditional"],
       [ "zh-TW", "zh-TW-utf8.txt", "utf8", "chinese traditional"]
     ]
 

@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{language_detector}
-  s.version = "0.1.2.1"
+  s.version = "0.1.2.2"
 
   s.authors = ["feedbackmine"]
   s.description = %q{n-gram based language detector, written in ruby}
